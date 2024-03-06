@@ -66,7 +66,8 @@
     }
 
     .navbar img {
-        height: 20px;
+        height: 22px;
+        margin-top: 2px;
     }
 
     .nav-separator {
