@@ -2,7 +2,7 @@
   import PapillonDownload from '$lib/icons/download.svg';
 </script>
 
-<a href="#" class="button_download_cta">
+<a href="#" class="button_download_cta" aria-label="Télécharger Papillon">
   <img src={PapillonDownload} alt="Télécharger" />
   <p class="button_download_cta_text">
     Télécharger
@@ -22,6 +22,7 @@
     border: 1px solid var(--text-color);
     color: var(--text-color);
     text-decoration: none;
+    width: fit-content;
   }
 
   .button_download_cta:hover {

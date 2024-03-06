@@ -39,7 +39,9 @@
     </div>
 
     <div class="navbar-right">
-        <DownloadCta />
+        <div class="no-mobile">
+            <DownloadCta />
+        </div>
     </div>
 </div>
 
@@ -100,6 +102,9 @@
     @media (max-width: 768px) {
         .no-mobile {
             display: none;
+        }
+        .navbar {
+            padding: 24px 0;
         }
     }
 </style>
