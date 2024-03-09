@@ -2,7 +2,7 @@
   import PapillonDownload from '$lib/icons/download.svg';
 </script>
 
-<a href="#" class="button_download_cta" aria-label="Télécharger Papillon">
+<a href="https://onelink.to/8uv2kx" class="button_download_cta" aria-label="Télécharger Papillon">
   <img src={PapillonDownload} alt="Télécharger" />
   <p class="button_download_cta_text">
     Télécharger
