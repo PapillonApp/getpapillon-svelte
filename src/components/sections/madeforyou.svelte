@@ -29,7 +29,7 @@
           Emploi du temps
         </h2>
         <p>
-          Un emploi du temps facile et intuitif à naviguer, avec tout ce dont vous avez besoin pour votre journée.
+          Un emploi du temps facile et intuitif à utiliser, avec tout ce dont vous avez besoin pour votre journée.
         </p>
         <img src={CardsEdt} alt="CardsTrav" />
       </div>
