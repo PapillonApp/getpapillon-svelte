@@ -48,13 +48,13 @@
 
 <style>
   .cards {
-    display: flex;
-    align-items: flex-start;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 10px;
   }
 
   .card {
-    flex: 1;
     display: flex;
     padding: 20px 24px 0px 24px;
     flex-direction: column;
@@ -114,14 +114,10 @@
     background: linear-gradient(142deg, rgba(255, 255, 255, 0.00) 53.08%, rgba(255, 255, 255, 0.05) 53.08%, rgba(153, 153, 153, 0.05) 77.86%), linear-gradient(349deg, rgba(21, 108, 214, 0.35) -24.07%, rgba(21, 108, 214, 0.00) 79.53%), #363C4E;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 950px) {
     .cards {
-      flex-direction: column;
+      grid-template-columns: repeat(1, 1fr);
       gap: 20px;
-    }
-
-    .card {
-      width: 100%;
     }
   }
 </style>

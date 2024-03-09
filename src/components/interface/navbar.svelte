@@ -3,6 +3,7 @@
     import { page } from '$app/stores';
 
     import DownloadCta from './download_cta.svelte';
+    import Error from '../../routes/+error.svelte';
 
     let path;
     $: path = $page.url.pathname;
@@ -13,19 +14,21 @@
             path: '/'
         },
         {
-            name: 'L\'équipe Papillon',
-            path: '/team'
-        },
-        {
             name: 'Documentation',
             path: 'https://docs.getpapillon.xyz'
+        },
+        {
+            name: 'Développeurs',
+            path: 'https://docs.getpapillon.xyz/development/intro/'
         },
     ];
 </script>
 
 <div class="navbar width">
     <div class="navbar-left">
-        <img src={PapillonLogo} alt="Papillon" />
+        <a href="/" style="opacity: 1;">
+            <img src={PapillonLogo} alt="Papillon" />
+        </a>
 
         <div class="nav-separator no-mobile"></div>
 
@@ -39,7 +42,7 @@
     </div>
 
     <div class="navbar-right">
-        <div class="no-mobile">
+        <div>
             <DownloadCta />
         </div>
     </div>

@@ -79,7 +79,7 @@
     width: 618px;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 950px) {
     .header {
       height: fit-content;
     }
