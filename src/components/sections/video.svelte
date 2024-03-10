@@ -15,6 +15,7 @@
 
     <video controls class="video">
       <source src="/papillon_v6_intl_h264.mp4" type="video/mp4">
+      <track kind="captions" src="/papillon_v6_intl.vtt" srclang="fr" label="Français" default>
       Votre navigateur ne supporte pas la vidéo.
     </video>
   </div>

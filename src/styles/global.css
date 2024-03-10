@@ -12,7 +12,7 @@
   --max-width: 1000px;
   --margin-side: calc((100% - var(--max-width)) / 2);
 
-  --primary-color: #2A937A;
+  --primary-color: #1f6e5b;
   --background-color: #242834;
   --background-over-100: #363C4E;
   --background-over-200: #454C62;

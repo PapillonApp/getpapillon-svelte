@@ -1,7 +1,4 @@
 <script>
-  import CardsTrav from '$lib/assets/cards_trav.png';
-  import CardsEdt from '$lib/assets/cards_edt.png';
-  import CardsNotes from '$lib/assets/cards_notes.png';
 </script>
 
 <div class="section">
@@ -22,7 +19,7 @@
         <p>
           Consultez efficacement vos devoirs, cochez-les et rendez les de manière synchronisée avec votre établissement.
         </p>
-        <img src={CardsTrav} alt="CardsTrav" />
+        <enhanced:img src='../../lib/assets/cards_trav.png' alt="Capture d'écran du travail à faire" />
       </div>
       <div class="card card-2">
         <h2>
@@ -31,7 +28,7 @@
         <p>
           Un emploi du temps facile et intuitif à utiliser, avec tout ce dont vous avez besoin pour votre journée.
         </p>
-        <img src={CardsEdt} alt="CardsTrav" />
+        <enhanced:img src='../../lib/assets/cards_edt.png' alt="Capture d'écran de l'emploi du temps" />
       </div>
       <div class="card card-3">
         <h2>
@@ -40,7 +37,7 @@
         <p>
           Vos notes vous sont importantes, il faut que vous soyez capable de mieux les comprendre avec des analyses.
         </p>
-        <img src={CardsNotes} alt="CardsTrav" />
+        <enhanced:img src='../../lib/assets/cards_notes.png' alt="Capture d'écran du détail des notes" />
       </div>
     </div>
   </div>
@@ -93,7 +90,9 @@
 
   .card img {
     width: 254px;
+    height: 236px;
     margin-top: 10px;
+    margin-bottom: -5px;
     transition: all 0.28s cubic-bezier(0.2,0,0,1);
   }
 

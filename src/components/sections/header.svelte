@@ -21,7 +21,7 @@
         En téléchargeant l’app, vous acceptez les <a href="https://docs.getpapillon.xyz/documents/terms-of-service/">conditions d’utilisation</a> et la <a href="https://docs.getpapillon.xyz/documents/privacy-policy/">politique de confidentialité</a>
       </p>
     </div>
-    <img src={Phones} alt="Capture d'écran de l'application" />
+    <enhanced:img src='../../lib/assets/phones.png' alt="Capture d'écran de l'application" />
   </div>
 </div>
 
@@ -77,6 +77,7 @@
   img {
     margin-right: -50px;
     width: 618px;
+    height: 348px;
   }
 
   @media (max-width: 950px) {
@@ -94,7 +95,8 @@
 
     img {
       margin-right: 0;
-      width: 150%;
+      width: 618px;
+      height: 348px;
     }
 
     .title {

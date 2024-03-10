@@ -10,16 +10,16 @@
     </p>
 
     <div class="nav-social">
-      <a href="https://twitter.com/thepapillonapp" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.com/thepapillonapp" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
         <Twitter size="24" />
       </a>
-      <a href="https://github.com/PapillonApp" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/PapillonApp" target="_blank" rel="noopener noreferrer" aria-label="Github">
         <Github size="24" />
       </a>
-      <a href="https://instagram.com/thepapillonapp" target="_blank" rel="noopener noreferrer">
+      <a href="https://instagram.com/thepapillonapp" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
         <Instagram size="24" />
       </a>
-      <a href="https://discord.gg/ywkBZx2jFB" target="_blank" rel="noopener noreferrer">
+      <a href="https://discord.gg/ywkBZx2jFB" target="_blank" rel="noopener noreferrer" aria-label="Discord">
         <MessagesSquare size="24" />
       </a>
     </div>
