@@ -33,7 +33,7 @@
         </div>
         <div class="feature_text">
           <p class="feature_title">
-            Personnalisée
+            Personnalisable
           </p>
           <p class="feature_description">
             Papillon s’adapte à vos goûts et à vos envies. C’est pour cela que de nombreux aspects de l’application sont personnalisables, et de plus en plus d’options le seront à l’avenir.
