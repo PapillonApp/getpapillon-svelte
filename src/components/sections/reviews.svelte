@@ -6,7 +6,7 @@
   <div class="width">
     <div class="section-header">
       <h2>
-        Utilisé et apprécié par des milliers d'utilisateurs
+        Utilisée et appréciée par des milliers d'utilisateurs
       </h2>
       <p>
         Papillon est l'application alternative de vie scolaire la plus utilisée et les utilisateurs en sont satisfaits. Voyez par vous-même ce qu'ils en disent.
