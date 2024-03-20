@@ -11,7 +11,7 @@
   <div class="width content">
     <div class="text">
       <p class="title fixel">
-        Reprenez le contrôle sur votre vie scolaire.
+        Votre vie scolaire, avec une expérience d'utilisation unique.
       </p>
       <p class="description">
         Papillon est un client libre, open-source et développé par une communauté d’élèves pour l’ensemble de vos services de vie scolaire.
