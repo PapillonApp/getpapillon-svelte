@@ -7,7 +7,7 @@
     <div class="section-header">
       <h2>Imaginé par tous, pensé pour chacun</h2>
       <p>
-        Papillon est imaginé par de nombreux élèves nourris par la volonté de rendre l’éducation numérique libre, meilleure, accessible et toujours évolutive, pour aider tous les élèves à se construire un environnement numérique accessible, gratuit, adapté et à leur image.
+        Papillon est imaginé par de nombreux élèves, nourris par la volonté de rendre l’éducation numérique libre, meilleure, accessible et toujours évolutive, pour aider tous les élèves à se construire un environnement numérique accessible, gratuit, adapté et à leur image.
       </p>
     </div>
 
@@ -64,7 +64,7 @@
             Libre
           </p>
           <p class="feature_description">
-            Le projet Papillon est un logiciel libre, communautaire et open-source que quiconque peut télécharger, modifier, améliorer, repartager et vérifier
+            Le projet Papillon est un logiciel libre, communautaire et open-source que quiconque peut télécharger, modifier, améliorer, repartager et vérifier.
           </p>
         </div>
       </div>
@@ -78,7 +78,7 @@
             Interface
           </p>
           <p class="feature_description">
-            Le design de l’application et son expérience utilisateur s’améliore continuellement pour créer une application intuitive au delà de vos attentes
+            Le design de l’application et son expérience utilisateur s’améliore continuellement pour créer une application intuitive au-delà de vos attentes.
           </p>
         </div>
       </div>
