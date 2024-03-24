@@ -6,7 +6,7 @@
     <div class="section-header">
       <h2>Pour vous, rien qu’à vous</h2>
       <p>
-        Créée par des élèves, l’application se concentre essentiellement sur les fonctionnalités dont vous avez réellement besoin, et y ajoute des options géniales pour faire de Papillon le votre.
+        Créée par des élèves, l’application se concentre essentiellement sur les fonctionnalités dont vous avez réellement besoin, et y ajoute des options géniales pour faire de Papillon le vôtre.
       </p>
     </div>
 
@@ -17,7 +17,7 @@
           Travail à faire
         </h2>
         <p>
-          Consultez efficacement vos devoirs, cochez-les et rendez les de manière synchronisée avec votre établissement.
+          Consultez efficacement vos devoirs, cochez-les et rendez-les de manière synchronisée avec votre établissement.
         </p>
         <enhanced:img src='../../lib/assets/cards_trav.png' alt="Capture d'écran du travail à faire" />
       </div>
