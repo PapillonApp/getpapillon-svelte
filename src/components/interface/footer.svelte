@@ -1,5 +1,5 @@
 <script>
-    import { Github, Instagram, MessagesSquare, Twitter } from "lucide-svelte";
+    import { Github, Instagram, MessagesSquare, Twitter, Linkedin } from "lucide-svelte";
 
 </script>
 <div class="footer">
@@ -21,6 +21,9 @@
       </a>
       <a href="https://discord.gg/ywkBZx2jFB" target="_blank" rel="noopener noreferrer" aria-label="Discord">
         <MessagesSquare size="24" />
+      </a>
+      <a href="https://www.linkedin.com/company/getpapillonapp/" target="_blank" rel="noopener noreferrer" aria-label="Linkedin">
+        <Linkedin size="24", strokeWidth="1.75" />
       </a>
     </div>
   </div>
