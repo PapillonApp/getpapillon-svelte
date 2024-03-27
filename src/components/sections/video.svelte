@@ -36,7 +36,7 @@
   }
 
   .video {
-    flex: 1;
+    flex: 1 1 content;
     width: 100%;
     max-width: 600px;
     height: auto;
