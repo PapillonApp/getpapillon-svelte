@@ -7,7 +7,7 @@
 	<div class="width">
 		<div id='load' class="section-header get">
 			<h1>
-				Prépare toi à découvrir une révolution !
+				Prépare-toi à découvrir une révolution !
 			</h1>
 			<p>
 				Nous préparons ton arrivé(e), tu vas bientôt pouvoir télécharger Papillon.
