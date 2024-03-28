@@ -19,7 +19,7 @@
 				Oups, nous n'arrivons pas à déterminer ton appareil.
 			</h1>
 			<p>
-				Séléctionne ton appareil ci-dessous pour télécharger Papillon.
+				Sélectionne ton appareil ci-dessous pour télécharger Papillon.
 			</p>
 
 			<a style="margin-top: 40px; color: var(--text-color);" href="https://play.google.com/store/apps/details?id=xyz.getpapillon.app">Android</a>
