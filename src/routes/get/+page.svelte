@@ -10,7 +10,7 @@
 				Prépare-toi à découvrir une révolution !
 			</h1>
 			<p>
-				Nous préparons ton arrivé(e), tu vas bientôt pouvoir télécharger Papillon.
+				Nous préparons ton arrivée, tu vas bientôt pouvoir télécharger Papillon.
 			</p>
 			<div class="loader" style="margin-top: 40px"><div></div><div></div><div></div><div></div></div>
 		</div>
