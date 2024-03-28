@@ -16,7 +16,7 @@
 		</div>
 		<div id="device-not-found" class="section-header get" style="align-items: flex-start;display: none;">
 			<h1>
-				Oups, nous n'arrivons pas à derterminer ton appareil.
+				Oups, nous n'arrivons pas à déterminer ton appareil.
 			</h1>
 			<p>
 				Séléctionne ton appareil ci-dessous pour télécharger Papillon.
