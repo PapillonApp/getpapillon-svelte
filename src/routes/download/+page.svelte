@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=https://onelink.to/8uv2kx">
