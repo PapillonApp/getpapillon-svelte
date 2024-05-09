@@ -18,8 +18,8 @@
             path: 'https://docs.getpapillon.xyz'
         },
         {
-            name: 'Développeurs',
-            path: 'https://docs.getpapillon.xyz/development/intro/'
+            name: 'Blog',
+            path: 'https://blog.getpapillon.xyz/'
         },
     ];
 </script>
