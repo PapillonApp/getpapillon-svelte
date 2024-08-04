@@ -1,8 +1,6 @@
 <script>
   import Navbar from "../interface/navbar.svelte";
   import DownloadCta from "../interface/download_cta.svelte";
-
-  import Phones from '$lib/assets/phones.png';
 </script>
 
 <div class="header">
@@ -18,7 +16,7 @@
       </p>
       <DownloadCta />
       <p class="conditions">
-        En téléchargeant l’app, vous acceptez les <a href="https://docs.getpapillon.xyz/documents/terms-of-service/">conditions d’utilisation</a> et la <a href="https://docs.getpapillon.xyz/documents/privacy-policy/">politique de confidentialité</a>
+        En téléchargeant l’app, vous acceptez les <a href="https://safety.getpapillon.xyz/documents/terms-of-service">conditions d’utilisation</a> et la <a href="https://safety.getpapillon.xyz/documents/privacy-policy">politique de confidentialité</a>
       </p>
     </div>
     <enhanced:img src='../../lib/assets/phones.png' alt="Capture d'écran de l'application" />
