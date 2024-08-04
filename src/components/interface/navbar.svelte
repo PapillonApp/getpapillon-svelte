@@ -1,6 +1,7 @@
 <script>
     import PapillonLogo from '$lib/assets/logo.svg';
     import { page } from '$app/stores';
+    import { base } from "$app/paths";
 
     import DownloadCta from './download_cta.svelte';
 
@@ -10,7 +11,7 @@
     const paths = [
         {
             name: 'L\'application',
-            path: '/'
+            path: `${base}/`
         },
         {
             name: 'Documentation',
@@ -25,7 +26,7 @@
 
 <div class="navbar width">
     <div class="navbar-left">
-        <a href="/" style="opacity: 1;">
+        <a href="{base}/" style="opacity: 1;">
             <img src={PapillonLogo} alt="Papillon" />
         </a>
 
