@@ -3,7 +3,6 @@
     import { page } from '$app/stores';
 
     import DownloadCta from './download_cta.svelte';
-    import Error from '../../routes/+error.svelte';
 
     let path;
     $: path = $page.url.pathname;

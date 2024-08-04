@@ -23,7 +23,7 @@
         <MessagesSquare size="24" />
       </a>
       <a href="https://www.linkedin.com/company/getpapillonapp/" target="_blank" rel="noopener noreferrer" aria-label="Linkedin">
-        <Linkedin size="24", strokeWidth="1.75" />
+        <Linkedin size="24" strokeWidth="1.75" />
       </a>
     </div>
   </div>
